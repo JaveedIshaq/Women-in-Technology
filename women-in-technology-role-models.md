@@ -14,22 +14,22 @@ Strong role models are leading the charge and the change. :raised-hands: As you 
 ### Hufsa Munawar
 Community Manager GDG Llive Pakistan | Developer Relations & Ecosystem
 
-### Manahil Qureshi
+### **Manahil Qureshi**
 Community Manager GDG Llive Pakistan
 
-### Rida Jameel
+### **Rida Jameel**
 Community Manager GDG Llive Pakistan
 
-### Rida Ayaz
+### **Rida Ayaz**
 Community Manager GDG Llive Pakistan
 
-### Ghania Munawar
+### **Ghania Munawar**
 Community Manager GDG Llive Pakistan
 
-### Tatheer Zahra
+### **Tatheer Zahra**
 Community Manager GDG Llive Pakistan
 
-### Emaan Ahmad
+### **Emaan Ahmad**
 Community Manager GDG Llive Pakistan
 
 
