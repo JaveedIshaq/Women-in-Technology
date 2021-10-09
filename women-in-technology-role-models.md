@@ -11,18 +11,18 @@ Strong role models are leading the charge and the change. :raised-hands: As you 
 
 ## Talented Pakistani women in Tech
 
-### Sakina Abbas
+### **Sakina Abbas**
 GDE in Flutter | Founder & CEO at Reactree
 
-### Hira Tariq
+### **Hira Tariq**
 Community Building Expert
 
-### Irum Zahra
+### **Irum Zahra**
 Data Science Expert
 
 ## GDG Live Pakistan Aspiring Lead and Core Members
 
-### Hufsa Munawar
+### **Hufsa Munawar**
 Community Manager GDG Llive Pakistan | Developer Relations & Ecosystem
 
 ### **Manahil Qureshi**
