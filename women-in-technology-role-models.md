@@ -12,12 +12,25 @@ Strong role models are leading the charge and the change. :raised-hands: As you 
 ## GDG Live Pakistan Aspiring Lead and Core Members
 
 ### Hufsa Munawar
+Community Manager GDG Llive Pakistan | Developer Relations & Ecosystem
+
 ### Manahil Qureshi
+Community Manager GDG Llive Pakistan
+
 ### Rida Jameel
+Community Manager GDG Llive Pakistan
+
 ### Rida Ayaz
+Community Manager GDG Llive Pakistan
+
 ### Ghania Munawar
+Community Manager GDG Llive Pakistan
+
 ### Tatheer Zahra
+Community Manager GDG Llive Pakistan
+
 ### Emaan Ahmad
+Community Manager GDG Llive Pakistan
 
 
 ## Top Women in Tech from around the World
