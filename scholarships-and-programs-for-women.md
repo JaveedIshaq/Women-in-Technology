@@ -1,7 +1,5 @@
 ## Scholarships and Programs for Women
-![books](documents/info/images/green-chameleon-s9CC2SKySJM-unsplash.jpg)
 
-## Scholarships
 #### 1. [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
   - [Generation Google Scholarship-Asia Pacific](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/) : Generation Google Scholarship: for women in computer science (formerly known as Women Techmakers Scholarship) was established to help aspiring students pursuing computer science degrees excel in technology and become leaders in the field. Selected students will receive $1,000 USD for the 2021-2022 school year. Generation Google Scholarship: for women in computer science will be awarded based on the strength of each candidate's commitment to diversity, equity, and inclusion, demonstrated leadership, and academic performance. 
   Note - This scholarship is also available in North America region (https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/) , and is aimed at groups historically excluded from the technology industry, including Women, Black/African American, Hispanic/Latinx, American Indian, Native Hawaiian/Pacific Islander.
