@@ -20,28 +20,30 @@ Community Building Expert
 ### **Irum Zahra**
 Data Science Expert
 
-## GDG Live Pakistan Aspiring Lead and Core Members
+## GDG Live Pakistan Aspiring Lead
 
 ### **Hufsa Munawar**
-Community Manager GDG Llive Pakistan | Developer Relations & Ecosystem
+Community Manager GDG Live Pakistan | Developer Relations & Ecosystem
+
+## GDG Live Pakistan Talented Core Members
 
 ### **Manahil Qureshi**
-Community Manager GDG Llive Pakistan
+Community Member GDG Live Pakistan
 
 ### **Rida Jameel**
-Community Manager GDG Llive Pakistan
+Community Member GDG Live Pakistan
 
 ### **Rida Ayaz**
-Community Manager GDG Llive Pakistan
+Community Member GDG Live Pakistan
 
 ### **Ghania Munawar**
-Community Manager GDG Llive Pakistan
+Community Member GDG Live Pakistan
 
 ### **Tatheer Zahra**
-Community Manager GDG Llive Pakistan
+Community Member GDG Live Pakistan
 
 ### **Emaan Ahmad**
-Community Manager GDG Llive Pakistan
+Community Member GDG Live Pakistan
 
 
 
@@ -71,6 +73,7 @@ _Lawyer, politician and founder/former CEO, Girls Who Code_
 [Read more](https://reshmasaujani.com/about/)
 
 ### Debjani Ghosh, Delhi
+
 _President, NASSCOM_
 
 > Life hack: “It’s time for women to stop second-guessing ourselves and start believing that we are the best at what we do. If you don’t, no one else will believe it.”
