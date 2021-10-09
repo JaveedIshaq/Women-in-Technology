@@ -20,7 +20,7 @@ Strong role models are leading the charge and the change. :raised-hands: As you 
 ### Emaan Ahmad
 
 
-## Top Women in Tech
+## Top Women in Tech from around the World
 
 ### Grace Hopper
 _She was a central figure in developing the first commercial computer, the UNIVAC I  , which changed the course of computers in society_
