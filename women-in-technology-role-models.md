@@ -9,6 +9,17 @@ Strong role models are leading the charge and the change. :raised-hands: As you 
 ### [12 exceptional Pakistani Women in Business and Technology](https://www.techjuice.pk/12-exceptional-pakistani-women-in-business-and-technology/)
 ### [Pakistani Women in Science and Technology Making Us Proud](https://pk.mashable.com/international-womens-day/1646/pakistani-women-in-science-and-technology-making-us-proud)
 
+## Talented Pakistani women in Tech
+
+### Sakina Abbas
+GDE in Flutter | Founder & CEO at Reactree
+
+### Hira Tariq
+Community Building Expert
+
+### Irum Zahra
+Data Science Expert
+
 ## GDG Live Pakistan Aspiring Lead and Core Members
 
 ### Hufsa Munawar
